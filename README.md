@@ -2,4 +2,7 @@ EjemploGit
 ==========
 
 Mi primer proyecto en github.
-nnnn
+
+
+
+Lo modifico desde la terminal de UBUNTU.
